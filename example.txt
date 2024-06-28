@@ -1,0 +1,3 @@
+This is an example text file.
+It contains multiple lines of text.
+Node.js is reading this file asynchronously.
